@@ -3,7 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Barbara Niemiecerawerawrawetresyhrestg vrgenobsdsdefcae
+Autor: Barbara Niemiec
 
 
 Fecha: 14-12-4024
