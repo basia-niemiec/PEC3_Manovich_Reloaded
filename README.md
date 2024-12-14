@@ -2,13 +2,11 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
 Autor: Barbara Niemiec
-
 
 Fecha: 14-12-4024
 
-![Cultura Digital](https://drive.google.com/drive/u/0/folders/11JimMJsZnQ1574CYGZ72Db5A6-JKznNU)>)
+
 
 
 
