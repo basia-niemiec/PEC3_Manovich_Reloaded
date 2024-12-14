@@ -8,9 +8,7 @@ Autor: Barbara Niemiec
 
 Fecha: 14-12-4024
 
-Cultura Digital
-
-![Cultura Digital](<img src="C:\Users\basia\Downloads\trastolandia-16.png" alt="trastolandia-16" style="zoom:80%;" />)
+![Cultura Digital](https://drive.google.com/drive/u/0/folders/11JimMJsZnQ1574CYGZ72Db5A6-JKznNU)>)
 
 
 
