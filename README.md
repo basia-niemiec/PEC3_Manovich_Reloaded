@@ -12,7 +12,7 @@ Cultura Digital
 
 
 
-![leo](C:\Users\basia\Pictures\leo.jpg)
+![trastolandia-16](C:\Users\basia\Downloads\trastolandia-16.png)
 
 
 
