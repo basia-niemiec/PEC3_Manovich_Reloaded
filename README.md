@@ -6,7 +6,7 @@ Autor: Barbara Niemiec
 
 Fecha: 14-12-4024
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=sharing) 
+![Cultura Digital](https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=sharing) 
 
 
 
