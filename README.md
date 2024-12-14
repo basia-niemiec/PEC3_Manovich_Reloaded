@@ -6,9 +6,6 @@ Autor: Barbara Niemiec
 
 Fecha: 14-12-4024
 
-![Cultura Digital](https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=sharing) 
-
-
 
 Prosigamos con la evolución informática de los medios. 
 
