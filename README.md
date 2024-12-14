@@ -12,8 +12,23 @@ Fecha: 14-12-4024
 
 
 
-## ¿Qué es la hibridación?
-> *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios.  Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios."* **(Manovich, 2013)**
+> Prosigamos con la evolución informática de los medios. 
+>
+> ## ¿Que es la hibridación?
+>
+> En principio, los medios se convirtieron, mediante la digitalización, a nuevos medios ubicados en un metamedio; a ese proceso lo llamamos **remediación**. En el siguiente paso en la escala de evolución informática empezaron a combinarse y a mezclarse entre sí. Hablamos de **hibridación**.
+>
+> > *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios."*(**Manovich, 2013**)
+>
+> Hay que diferenciar entre '***hibridación de medios***' y '***multimedia***', ya que son dos conceptos muy diferentes, pero que pueden crear mucha confusión, por lo que citaré otra vez a Manovich y resaltaré la parte de más interés.
+>
+> > ***"En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro**. En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; un mundo en 3D puede contener un objeto de pantalla plana donde se exhiba material en vídeo. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). **Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios**. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.*" *(**Manovich, 2013**)
+>
+> ####  Diferencia entre un medio de multimedia y hibrido
+>
+> Profundicemos un poco y expliquemos la hibridación de los medios. Manovich utiliza varias metáforas, mirándolo de todos los ángulos posibles, como la ***evolución biológica*** o la ***remezcla***, pero todas lo llevan a la misma conclusión. No se trata de dos o varios medios independientes que conviven en la misma plataforma (multimedia), sino que dan lugar a otro medio que es la combinación de ellos. La multimedia son medios que coexisten; a nivel de su estructura y su lenguaje se conservan y no cambian, al contrario de los medios híbridos, que *'intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos'.*
+>
+> A continuación veamos dos ejemplos y sus combinaciones.
 
 
 
