@@ -10,8 +10,6 @@ Fecha: 14-12-4024
 
 Cultura Digital
 
-![](C:\Users\basia\Downloads\imagenpec3.png)
-
 Prosigamos con la evolución informática de los medios. 
 
 ## ¿Que es la hibridación?
