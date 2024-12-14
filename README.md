@@ -2,9 +2,18 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
+
 Autor: Barbara Niemiec
 
+
 Fecha: 14-12-4024
+
+Cultura Digital
+
+
+
+![leo](C:\Users\basia\Pictures\leo.jpg)
+
 
 
 Prosigamos con la evolución informática de los medios. 
