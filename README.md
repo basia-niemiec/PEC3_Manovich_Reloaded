@@ -10,7 +10,7 @@ Fecha: 14-12-4024
 
 Cultura Digital
 
-<img src="C:\Users\basia\Downloads\trastolandia-16.png" alt="trastolandia-16" style="zoom:80%;" /> 
+![Cultura Digital](<img src="C:\Users\basia\Downloads\trastolandia-16.png" alt="trastolandia-16" style="zoom:80%;" />)
 
 
 
