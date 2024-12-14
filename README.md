@@ -10,12 +10,6 @@ Fecha: 14-12-4024
 
 Cultura Digital
 
-
-
-![trastolandia-16](C:\Users\basia\Downloads\trastolandia-16.png)
-
-
-
 Prosigamos con la evolución informática de los medios. 
 
 ## ¿Que es la hibridación?
