@@ -10,7 +10,7 @@ Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
 
-![Cultura digital](C:\Users\basia\Downloads\imagenpec3.png)
+![Cultura digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/imagenpec3.png)
 
 
 
