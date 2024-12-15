@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+###### Recurso de aprendizaje de Cultura Digital 
 
 
 Autor: Barbara Niemiec
@@ -8,13 +8,15 @@ Autor: Barbara Niemiec
 
 Fecha: 14-12-4024
 
-Cultura Digital
+Cultura Digital  |  **UOC**
 
-Prosigamos con la evolución informática de los medios. 
+![](C:\Users\basia\Downloads\imagenpec3.png)
+
+
 
 ## ¿Que es la hibridación?
 
-En principio, los medios se convirtieron, mediante la digitalización, a nuevos medios ubicados en un metamedio; a ese proceso lo llamamos **remediación**. En el siguiente paso en la escala de evolución informática empezaron a combinarse y a mezclarse entre sí. Hablamos de **hibridación**.
+Los **medios** se convirtieron, mediante la digitalización, en **nuevos medios** ubicados en metamedios - hablamos de **remediación**. En el siguiente paso empezaron a combinarse y a mezclarse entre sí - hablamos de **hibridación**.  
 
 > *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios."*(**Manovich, 2013**)
 
@@ -24,7 +26,7 @@ Hay que diferenciar entre '***hibridación de medios***' y '***multimedia***', y
 
 ####  Diferencia entre un medio de multimedia y hibrido
 
-Profundicemos un poco y expliquemos la hibridación de los medios. Manovich utiliza varias metáforas, mirándolo de todos los ángulos posibles, como la ***evolución biológica*** o la ***remezcla***, pero todas lo llevan a la misma conclusión. No se trata de dos o varios medios independientes que conviven en la misma plataforma (multimedia), sino que dan lugar a otro medio que es la combinación de ellos. La multimedia son medios que coexisten; a nivel de su estructura y su lenguaje se conservan y no cambian, al contrario de los medios híbridos, que *'intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos'.*
+Profundicemos un poco más y expliquemos la hibridación de los medios. Manovich utiliza varias metáforas, mirándolo de todos los ángulos posibles, como la ***evolución biológica*** o la ***remezcla***, pero todas lo llevan a la misma conclusión. No se trata de dos o varios medios independientes que conviven en la misma plataforma (multimedia), sino que dan lugar a otro medio que es la combinación de ellos. La multimedia son medios que coexisten; a nivel de su estructura y su lenguaje se conservan y no cambian, al contrario de los medios híbridos, que *'intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos'.*
 
 A continuación veamos dos ejemplos y sus combinaciones.
 
