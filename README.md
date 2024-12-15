@@ -10,7 +10,8 @@ Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
 
-![Cultura digital](C:\Users\basia\Downloads\imagenpec3.png)
+![Cultura digital](C:/Users/basia/Downloads/imagenpec3.png)
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 
