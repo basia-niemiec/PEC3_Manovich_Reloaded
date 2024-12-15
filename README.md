@@ -9,14 +9,14 @@ Autor: Barbara Niemiec
 Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
 ## Evolución de medios
 
 Recordemos la **remediación**,  *la conversión de los viejos medios en nuevos medios* mediante la digitalización ubicados en un metamedio, que tuvo un importante impacto en nuestra cultura. Y lo sigue teniendo, cada vez lo digital es más presente. 
 
-Ante esa demanda de la información digital, incluso me atrevo a decir, ante la dependencia creciente de la información digital, estamos obligados a actualizarla constantemente para satisfacernos. Pero no hablamos de crear e inventar nuevos medios, simplemente, partiendo de los medios ya existentes y manipulando sus diversas técnicas informáticas, creamos nuevas combinaciones. Hablamos de los medios híbridos, **hibridación**, siguiente fase de la evolución digital.
+Ante esa demanda de la información digital, incluso me atrevo a decir, ante la dependencia creciente de la información digital, estamos obligados a actualizarla constantemente para satisfacernos. Pero no hablamos de crear e inventar nuevos medios, simplemente, partiendo de los medios ya existentes y manipulando mediante sus diversas técnicas informáticas, creamos nuevas combinaciones. Hablamos de los medios híbridos, **hibridación**, siguiente fase de la evolución digital.
 
 > *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios."*(**Manovich, 2013**)
 
