@@ -9,8 +9,7 @@ Autor: Barbara Niemiec
 Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
-[https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=sharing](https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=drive_link)
-![Cultura digital](https://drive.google.com/file/d/1WZP96eba1ymJzWZHtbtT2Gqpm67XkvTm/view?usp=drive_link)
+
 
 
 
