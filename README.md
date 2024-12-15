@@ -9,7 +9,7 @@ Autor: Barbara Niemiec
 Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
-
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
 
 ## Evolución de medios
