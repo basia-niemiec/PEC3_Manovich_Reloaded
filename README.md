@@ -47,8 +47,6 @@ DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiv
 
 ## Re-descubriendo la hibridación: PHOTOMATH
 
-Esta aplicación es una combinación a de 
-
 Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de texto y numeros y efectua la busqueda de la solucion del problema matematico. 
 
 
