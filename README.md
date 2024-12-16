@@ -12,7 +12,7 @@ Cultura Digital  |  **UOC**
 
 ![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
-## Evolución de medios
+## Evolución de medios - hibridación
 
 Recordemos la **remediación**,  *la conversión de los viejos medios en nuevos medios* mediante la digitalización ubicados en un metamedio, que tuvo un importante impacto en nuestra cultura. Y lo sigue teniendo, cada vez lo digital es más presente. 
 
@@ -32,16 +32,29 @@ La multimedia son medios que coexisten y a nivel de su estructura y su lenguaje 
 
 Por lo que recalquemos que los '***medios híbridos***'  no son '***multimedia***'; se trata de dos conceptos distintos que pueden crear confusión, por lo que citaré otra vez a Manovich resaltando la parte de más interés para recalcar esas diferencias.
 
-> ***"En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro**. En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; un mundo en 3D puede contener un objeto de pantalla plana donde se exhiba material en vídeo. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). **Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios**. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.*" *(**Manovich, 2013**)
+> "En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro. [...]Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno." (**Manovich, 2013**)
 
+Destaquemos el impacto de la hibridación en el diseño visual, ya que al fusionar y yuxtaponer las técnicas de los múltiples medios, surge otro concepto de estética visual, que forma parte de lenguaje que se utiliza en diferentes áreas de diseño, como el diseño web, el diseño gráfico, de interfaces, etc.
+
+No obstante, no olvidemos la contribución en el desarrollo de las plataformas de presentación - metamedios, que nos brindan la oportunidad de disfrutar de los medios en cualquier momento a través de dispositivos cada vez más impactos, como tablets o móviles.
+
+A continuación os presento dos caso de la hibridación,  relacionados con el aprendizaje, en concreto idiomas y matemáticas.
 
 ## Re-descubriendo la hibridación: DUOLINGO
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/Duolingo_logo.png) 
-DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiva simulando un juego. Es decir mediante 
 
+![Cultura Digital](https://github.com/basianiemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
+DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiva simulando un juego.  
+
+es una combinación del aprendizaje de idiomas mediante el juego interactivo. Es muy entretenido y a la vez muy instructivo.  
+
+Como hibrido hablamos de una combinación de técnicas de 
 
 ## Re-descubriendo la hibridación: PHOTOMATH
+
+Photomath es una aplicación que, mediante reconocimiento visual de operaciones matemáticas, te ayuda a resolver los problemas paso a paso. Muy útil en la hora de no recordar cómo lo hacías cuando tienes que explicárselo a tu hija.
+
+
 
 Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de texto y numeros y efectua la busqueda de la solucion del problema matematico. 
 
@@ -58,4 +71,8 @@ Licencia:
 Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
 Imágenes: Obras derivadas, bajo licencia educativa de Adobe Express, proporcionada por UOC.
+
+​		   Duolingo, Dominio Público
+
+
 
