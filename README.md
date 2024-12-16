@@ -36,7 +36,7 @@ Por lo que recalquemos que los '***medios híbridos***'  no son '***multimedia**
 
 
 ## Re-descubriendo la hibridación: DUOLINGO
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/Duolingo_logo.png) 
 DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiva simulando un juego. Es decir mediante 
 
 
