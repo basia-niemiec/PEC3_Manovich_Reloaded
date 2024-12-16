@@ -34,9 +34,9 @@ Por lo que recalquemos que los '***medios híbridos***'  no son '***multimedia**
 
 > ***"En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro**. En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; un mundo en 3D puede contener un objeto de pantalla plana donde se exhiba material en vídeo. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). **Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios**. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.*" *(**Manovich, 2013**)
 
-...EN CONSTRUCCIÓN...
-## Re-descubriendo la hibridación: DUOLINGO
 
+## Re-descubriendo la hibridación: DUOLINGO
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiva simulando un juego. Es decir mediante 
 
 
