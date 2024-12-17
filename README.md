@@ -6,7 +6,7 @@
 Autor: Barbara Niemiec
 
 
-Fecha: 14-12-2024
+Fecha: 14-12-4024
 
 Cultura Digital  |  **UOC**
 
@@ -22,13 +22,14 @@ Ante esa demanda de la información digital, incluso me atrevo a decir, ante la 
 
 No obstante, vamos a obtener una conclusión más: la diferencia entre los medios que comparten la misma plataforma o los que se fusionan generando unos nuevos. Estas diferencias nos ayudarán a entender mejor el concepto de la hibridación de los medios. 
 
-#####  Diferencia entre un medio de multimedia y hibrido
+####  Diferencia entre un medio de multimedia y hibrido
 
 Mirándolo de todos los ángulos posibles, Manovich utiliza varias metáforas, como la ***evolución biológica*** o la ***remezcla***, pero todos lo llevan a la misma conclusión. 
 
-No se trata de los medios ya existentes que compartan la misma plataforma, sino de las que son el resultado de su combinación. 
+- No se trata de los medios ya existentes que compartan la misma plataforma, sino de las que son el resultado de su combinación. 
 
-La multimedia son medios que coexisten y a nivel de su estructura y su lenguaje se conservan y no cambian; al contrario de los medios híbridos que, como menciona Manovich *'intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos'.*
+- La multimedia son medios que coexisten y a nivel de su estructura y su lenguaje se conservan y no cambian; al contrario de los medios híbridos que, como menciona Manovich *'intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos'.*
+
 
 Por lo que recalquemos que los '***medios híbridos***'  no son '***multimedia***'; se trata de dos conceptos distintos que pueden crear confusión, por lo que citaré otra vez a Manovich resaltando la parte de más interés para recalcar esas diferencias.
 
@@ -38,41 +39,52 @@ Destaquemos el impacto de la hibridación en el diseño visual, ya que al fusion
 
 No obstante, no olvidemos la contribución en el desarrollo de las plataformas de presentación - metamedios, que nos brindan la oportunidad de disfrutar de los medios en cualquier momento a través de dispositivos cada vez más impactos, como tablets o móviles.
 
-A continuación os presento dos caso de la hibridación,  relacionados con el aprendizaje, en concreto idiomas y matemáticas.
+------
 
 ## Re-descubriendo la hibridación: DUOLINGO
 
 ![Cultura Digital](https://github.com/basianiemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
-DUOLINGO una combinación de aprender idiomas mediante una plataforma interactiva simulando un juego.  
+**DUOLINGO**  
 
-es una combinación del aprendizaje de idiomas mediante el juego interactivo. Es muy entretenido y a la vez muy instructivo.  
+> [!TIP]
+>
+> **Aprender el idioma deseado de forma personalizada y divertida accesible a todas las personas**.
+>
+> **Mejorar la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
 
-Como hibrido hablamos de una combinación de técnicas de 
+Duolingo se basa principalmente en el concepto de gamificación - el aprendizaje educativo y divertido - mientras juegas, aprendes y te diviertes. 
+
+------
 
 ## Re-descubriendo la hibridación: PHOTOMATH
 
 Photomath es una aplicación que, mediante reconocimiento visual de operaciones matemáticas, te ayuda a resolver los problemas paso a paso. Muy útil en la hora de no recordar cómo lo hacías cuando tienes que explicárselo a tu hija.
 
+Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de texto y numeros y efectua la busqueda de la solucion del problema matemático. 
+
+------
+
+## Conclusión
 
 
-Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de texto y numeros y efectua la busqueda de la solucion del problema matematico. 
 
+------
 
-### Referencias y Bibliografía
+#### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
+#### Webgrafía
 
-----
+- Duolingo,https://es.duolingo.com/info
 
-Licencia: 
+#### Licencias: 
 
-Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+- Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
-Imágenes: Obras derivadas, bajo licencia educativa de Adobe Express, proporcionada por UOC.
-
-​		   Duolingo, Dominio Público
+- Imágenes utilizadas: Obras derivadas, bajo licencia educativa de Adobe Express, proporcionada por UOC.
+- Imagen Duolingo, Dominio Público
 
 
 
