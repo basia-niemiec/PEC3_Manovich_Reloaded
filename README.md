@@ -43,7 +43,7 @@ No obstante, no olvidemos la contribución en el desarrollo de las plataformas d
 
 ## Re-descubriendo la hibridación: PHOTOMATH
 
-PhotoMath es otra aplicación en el ámbito educativo, pero enfocada en matemáticas. Se trata de una aplicación para los dispositivos móviles que, mediante el reconocimiento visual de operaciones matemáticas, brinda la oportunidad de solucionar los problemas matemáticos y ecuaciones de forma rápida. Muy útil en momentos de no recordar mientras lo explicas a tus hijos. Para hallar soluciones de problemas de matemática o álgebra, como ecuaciones,fracciones, raíces, etc., que los encontramos de forma impresa en los libros o escrita a mano en las libretas, es difícil y costoso escribirlos en el ordenador. Básicamente, se trata de solucionar ese problema con la cámara de nuestro dispositivo, escaneando el texto, para poder buscarlo en internet y mostrar el resultado con su posible solución. 
+PhotoMath es una de las aplicaciónes del ámbito educativo enfocada en matemáticas. Se trata de una aplicación para los dispositivos móviles que, mediante el reconocimiento visual de operaciones matemáticas, brinda la oportunidad de solucionar los problemas matemáticos y ecuaciones de forma rápida. Muy útil en momentos de no recordar mientras lo explicas a tus hijos. Para hallar soluciones de problemas de matemática o álgebra, como ecuaciones,fracciones, raíces, etc., que los encontramos de forma impresa en los libros o escrita a mano en las libretas, es difícil y costoso escribirlos en el ordenador. Básicamente, se trata de solucionar ese problema con la cámara de nuestro dispositivo, escaneando el texto, para poder buscarlo en internet y mostrar el resultado con su posible solución. 
 
 #### Como funciona:
 
