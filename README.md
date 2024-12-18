@@ -39,11 +39,13 @@ Destaquemos el impacto de la hibridación en el diseño visual, ya que al fusion
 
 No obstante, no olvidemos la contribución en el desarrollo de las plataformas de presentación - metamedios, que nos brindan la oportunidad de disfrutar de los medios en cualquier momento a través de dispositivos cada vez más impactos, como tablets o móviles.
 
+Como ejemplos de hibridación m
+
 ------
 
 ## Re-descubriendo la hibridación: DUOLINGO
 
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/Duolingo_logo.png) 
+![Cultura Digital](https://github.com/basianiemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
 **DUOLINGO**  
 
@@ -53,15 +55,44 @@ No obstante, no olvidemos la contribución en el desarrollo de las plataformas d
 >
 > **Mejorar la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
 
+Duolingo es una aplicación que combina el aprendizaje de un idioma mediante juegos interactivos, en diferentes dispositivos y plataformas.
+
+Su funcionamiento se basa,  en principio evaluar  los conocimientos del usuario de la lengua deseada para poder empezar las lecciones que se basan en conjugar las frases escritas, hacer dictados y repetir los enunciados; con lo se practica la escucha, lectura y escritura activa. La progresión se ve mediante unos ciclos a complementar y retos tanto individuales como grupales, lo que estimula la competición y ganas de aprender.
+
+#### como funciona
+
+#### que medios incorpora
+
+sonificación de datos - transforma los datos en sonido
+
 Duolingo se basa principalmente en el concepto de gamificación - el aprendizaje educativo y divertido - mientras juegas, aprendes y te diviertes. 
 
 ------
 
 ## Re-descubriendo la hibridación: PHOTOMATH
 
-Photomath es una aplicación que, mediante reconocimiento visual de operaciones matemáticas, te ayuda a resolver los problemas paso a paso. Muy útil en la hora de no recordar cómo lo hacías cuando tienes que explicárselo a tu hija.
+PhotoMath es otra aplicación en el ámbito educativo, pero enfocada en matemáticas. Se trata de una aplicación para los dispositivos móviles que, mediante el reconocimiento visual de operaciones matemáticas, brinda la oportunidad de solucionar los problemas matemáticos y ecuaciones de forma rápida. Muy útil en momentos de no recordar mientras lo explicas a tus hijos. Para hallar soluciones de problemas de matemática o álgebra, como ecuaciones,fracciones, raíces, etc., que los encontramos de forma impresa en los libros o escrita a mano en las libretas, es difícil y costoso escribirlos en el ordenador. Básicamente, se trata de solucionar ese problema con la cámara de nuestro dispositivo, escaneando el texto, para poder buscarlo en internet y mostrar el resultado con su posible solución. 
 
-Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de texto y numeros y efectua la busqueda de la solucion del problema matemático. 
+#### Como funciona:
+
+El funcionamiento de PhotoMath se basa en: 
+
+1. Escanear/fotografiar la imagen del problema matemático 
+2. Analizar la imagen escaneada 
+3. Convertir y transcribir la imagen a texto con información 
+4. Buscar y encontrar la información en la red 
+5. Visualizar el resultado de la búsqueda de la información.
+6. Consultar el resultado del problema matemático con sus explicaciones. 
+
+El usuario solo interviene en los pasos 1 y 6, por lo que podemos afirmar que se trata de una aplicación muy sencilla y fácil de utilizar. 
+
+Combinando diferentes medios y fusionando sus técnicas, con la cámara del dispositivo se obtiene la captura de la imagen. Con la **tecnología de reconocimiento de caracteres**, la convierte en un dato-texto con las propiedades como **buscabilidad**, **encontrabilidad** y la **visualización** para realizar la búsqueda en la red y a continuación proporcionar el resultado de la operación.
+
+Los resultados de soluciones de los problemas matemáticos se muestran en unas ventanas que incluyen tanto los textos explicativos como las gráficas y una calculadora científica muy completa. En estos apartados vemos la **combinación de las técnicas de interacción y los métodos propios de interfaz multitáctil**, ya que al tocar cualquier elemento de las gráficas, sigue proporcionando más explicaciones.
+
+**Metamedio-dispositivo**. Para esta aplicación, la interfaz física es importante. No solo por la cámara necesaria para escanear la imagen, sino para después interactuar entre las ventanas mediante una pantalla táctil, por lo que los dispositivos adecuados son los **dispositivos móviles y tablets**. 
+
+PhotoMath es una aplicación de gran utilidad para los estudiantes de todas las edades, especialmente por su **combinación de sencillez en la búsqueda** de la solución a su problema y por **la rapidez**, los detalles relacionados con los **resultados** y la forma de su presentación, destacando su sencillo y fácil manejo. 
 
 ------
 
@@ -78,6 +109,7 @@ Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de tex
 #### Webgrafía
 
 - Duolingo,https://es.duolingo.com/info
+- PhotoMath, https://photomath.com/
 
 #### Licencias: 
 
@@ -85,6 +117,7 @@ Mediante escaneo de una imagen con la ayuda de IA la traduce a un formato de tex
 
 - Imágenes utilizadas: Obras derivadas, bajo licencia educativa de Adobe Express, proporcionada por UOC.
 - Imagen Duolingo, Dominio Público
+- Photomath, © Google
 
 
 
