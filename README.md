@@ -39,8 +39,6 @@ Destaquemos el impacto de la hibridación en el diseño visual, ya que al fusion
 
 No obstante, no olvidemos la contribución en el desarrollo de las plataformas de presentación - metamedios, que nos brindan la oportunidad de disfrutar de los medios en cualquier momento a través de dispositivos cada vez más impactos, como tablets o móviles.
 
-Como ejemplos de hibridación m
-
 ------
 
 ## Re-descubriendo la hibridación: DUOLINGO
