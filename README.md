@@ -41,32 +41,6 @@ No obstante, no olvidemos la contribución en el desarrollo de las plataformas d
 
 ------
 
-## Re-descubriendo la hibridación: DUOLINGO
-
-![Cultura Digital](https://github.com/basianiemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
-
-**DUOLINGO**  
-
-> [!TIP]
->
-> **Aprender el idioma deseado de forma personalizada y divertida accesible a todas las personas**.
->
-> **Mejorar la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
-
-Duolingo es una aplicación que combina el aprendizaje de un idioma mediante juegos interactivos, en diferentes dispositivos y plataformas.
-
-Su funcionamiento se basa,  en principio evaluar  los conocimientos del usuario de la lengua deseada para poder empezar las lecciones que se basan en conjugar las frases escritas, hacer dictados y repetir los enunciados; con lo se practica la escucha, lectura y escritura activa. La progresión se ve mediante unos ciclos a complementar y retos tanto individuales como grupales, lo que estimula la competición y ganas de aprender.
-
-#### como funciona
-
-#### que medios incorpora
-
-sonificación de datos - transforma los datos en sonido
-
-Duolingo se basa principalmente en el concepto de gamificación - el aprendizaje educativo y divertido - mientras juegas, aprendes y te diviertes. 
-
-------
-
 ## Re-descubriendo la hibridación: PHOTOMATH
 
 PhotoMath es otra aplicación en el ámbito educativo, pero enfocada en matemáticas. Se trata de una aplicación para los dispositivos móviles que, mediante el reconocimiento visual de operaciones matemáticas, brinda la oportunidad de solucionar los problemas matemáticos y ecuaciones de forma rápida. Muy útil en momentos de no recordar mientras lo explicas a tus hijos. Para hallar soluciones de problemas de matemática o álgebra, como ecuaciones,fracciones, raíces, etc., que los encontramos de forma impresa en los libros o escrita a mano en las libretas, es difícil y costoso escribirlos en el ordenador. Básicamente, se trata de solucionar ese problema con la cámara de nuestro dispositivo, escaneando el texto, para poder buscarlo en internet y mostrar el resultado con su posible solución. 
@@ -94,9 +68,29 @@ PhotoMath es una aplicación de gran utilidad para los estudiantes de todas las 
 
 ------
 
-## Conclusión
+## Re-descubriendo la hibridación: DUOLINGO
 
+![Cultura Digital](https://github.com/basianiemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
 
+**DUOLINGO**  
+
+> [!TIP]
+>
+> **Aprender el idioma deseado de forma personalizada y divertida accesible a todas las personas**.
+>
+> **Mejorar la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
+
+Duolingo es una aplicación que combina el aprendizaje de un idioma mediante juegos interactivos, en diferentes dispositivos y plataformas.
+
+Su funcionamiento se basa,  en principio evaluar  los conocimientos del usuario de la lengua deseada para poder empezar las lecciones que se basan en conjugar las frases escritas, hacer dictados y repetir los enunciados; con lo se practica la escucha, lectura y escritura activa. La progresión se ve mediante unos ciclos a complementar y retos tanto individuales como grupales, lo que estimula la competición y ganas de aprender.
+
+#### como funciona
+
+#### que medios incorpora
+
+sonificación de datos - transforma los datos en sonido
+
+Duolingo se basa principalmente en el concepto de gamificación - el aprendizaje educativo y divertido - mientras juegas, aprendes y te diviertes. 
 
 ------
 
