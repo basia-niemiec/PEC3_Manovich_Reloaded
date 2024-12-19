@@ -59,7 +59,7 @@ No obstante, no olvidemos la contribución en el desarrollo de las plataformas d
 Una vez creada la cuenta, el usuario puede elegir los cursos con los  idiomas que quiere ejercitar según sus conocimientos. Lo que le permita empezar las lecciones de su nivel correspondiente. Los ejercicios, formando ciclos, se basan en conjugar las frases escritas, hacer los dictados y repetir los enunciados; con lo se practica la escucha, la lectura y la escritura activa. El progreso se ve mediante los ciclos y a complementar los retos, tanto individuales como grupales.
 
 Otros servicios que te ofrece Duolingo, aparte de la oportunidad de conseguir la certificación de Ingles B1, pero ya no gratuitos es que puedes contar con el apoyo de IA para practicar los idiomas con los personajes-creaciones de la aplicaciones simulando las conversaciones. 
-
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/duolingo.png) 
 #### Funcionamiento y medios utilizados
 
 En caso de los ejercicios de escucha activa se utiliza la técnica de sonificación de datos - transforma los datos en sonido, l
