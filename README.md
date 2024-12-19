@@ -46,9 +46,6 @@ No obstante, no olvidemos la contribución en el desarrollo de las plataformas d
 ## Re-descubriendo la hibridación: DUOLINGO
 
 ![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/duolingo.png) 
-
-**DUOLINGO**  
-
 > [!TIP]
 >
 > **Puedes aprender el idioma deseado de forma personalizada, divertida y gratuita.** 
