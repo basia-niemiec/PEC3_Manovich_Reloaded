@@ -75,7 +75,7 @@ En toda la aplicación presentamos la **combinación de las técnicas de interac
 ------
 
 ## Re-descubriendo la hibridación: PHOTOMATH
-
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/duolingo.png) 
 > [!TIP]
 >
 > **Puedes comprobar si tu resultado del problema matemático es correcto**.
@@ -103,7 +103,7 @@ El usuario solo interviene en los pasos 1 y 6, por lo que podemos afirmar que se
 
 Combinando diferentes medios y fusionando sus técnicas, mediante la cámara del dispositivo se obtiene la captura de la imagen. Con la **tecnología de reconocimiento de caracteres**, la convierte en un dato-texto con las propiedades como **buscabilidad**, **encontrabilidad** y la **visualización** para realizar la búsqueda en la red y a continuación proporcionar el resultado de la operación.
 
-Los resultados de soluciones de los problemas matemáticos se muestran en unas ventanas que incluyen tanto los textos explicativos como las gráficas y una calculadora científica muy completa. En estos apartados vemos la **combinación de las técnicas de interacción y los métodos propios de interfaz multitáctil**, ya que al tocar cualquier elemento de las gráficas, sigue proporcionando más explicaciones mediante otras ventanas.
+Los resultados de soluciones de los problemas matemáticos se muestran en unas ventanas que incluyen tanto los textos explicativos como las gráficas y una calculadora inteligente para editar directamente. En estos apartados vemos la **combinación de las técnicas de interacción y los métodos propios de interfaz multitáctil**, ya que al tocar cualquier elemento de las gráficas, sigue proporcionando más explicaciones mediante otras ventanas.
 
 **Metamedio-dispositivo**. Para esta aplicación, la interfaz física es importante. No solo por la cámara necesaria para escanear la imagen, sino para después interactuar entre las ventanas mediante una pantalla táctil. Por lo que los dispositivos adecuados son los **dispositivos móviles y tablets**. 
 
@@ -127,6 +127,7 @@ La hibridación de los medios es un avance importante en todas las áreas, no so
 - PhotoMath, https://photomath.com/
 - Wikipedia, https://en.wikipedia.org/wiki/Duolingo  |   https://es.wikipedia.org/wiki/Photomath
 - https://duolingo.fandom.com/es/wiki/Duolingo
+- https://www.pngegg.com/en/png-bpllm
 
 #### Licencias: 
 
@@ -136,6 +137,9 @@ La hibridación de los medios es un avance importante en todas las áreas, no so
 - Imagen Duolingo, Dominio Público
 - Photomath, © Google
 - Imagenes Duolingo-fandom, bajo la licencia CC-BY-SA
+- Imagenes PNGEGG.COM, Non-commercial use, DMCA Contact Us
+
+
 
 
 
