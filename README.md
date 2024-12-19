@@ -53,9 +53,11 @@ Como ejemplos de hibridación m
 
 > [!TIP]
 >
-> **Puedes aprender el idioma deseado de forma personalizada, divertida y gratuita. **
+> **Puedes aprender el idioma deseado de forma personalizada, divertida y gratuita.** 
 >
 > **Mejora la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
+
+
 
 **Duolingo** es una aplicación del ámbito educativo, en concreto lingüístico, que combina el aprendizaje de un idioma mediante unas clases con unos juegos interactivos en diferentes dispositivos y plataformas. Ofrece una gama muy amplia, con lo que le proporciona a cualquier persona la oportunidad de mejorar o aprender el idioma deseado.  
 
