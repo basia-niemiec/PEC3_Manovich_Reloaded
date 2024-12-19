@@ -75,7 +75,7 @@ En toda la aplicación presentamos la **combinación de las técnicas de interac
 ------
 
 ## Re-descubriendo la hibridación: PHOTOMATH
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/duolingo.png) 
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/photomathlogo.png) 
 > [!TIP]
 >
 > **Puedes comprobar si tu resultado del problema matemático es correcto**.
