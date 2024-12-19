@@ -53,7 +53,7 @@ Como ejemplos de hibridación m
 
 > [!TIP]
 >
-> **Puedes aprender el idioma deseado de forma personalizada, divertida y gratuita **.
+> **Puedes aprender el idioma deseado de forma personalizada, divertida y gratuita. **
 >
 > **Mejora la comunicación en tu vida mediante unos juegos y Podcasts, ayudar a progresarte.**
 
