@@ -125,7 +125,7 @@ La hibridación de los medios es un avance importante en todas las áreas, no so
 
 - Duolingo,https://es.duolingo.com/info
 - PhotoMath, https://photomath.com/
-- Wikipedia, 
+- Wikipedia, https://en.wikipedia.org/wiki/Duolingo  |   https://es.wikipedia.org/wiki/Photomath
 - https://duolingo.fandom.com/es/wiki/Duolingo
 
 #### Licencias: 
