@@ -10,7 +10,7 @@ Fecha: 14-12-2024
 
 Cultura Digital  |  **UOC**
 
-![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucion.png) 
+![Cultura Digital](https://github.com/basia-niemiec/PEC3_Manovich_Reloaded/blob/main/evolucionMedios.png) 
 
 ## Evolución de medios - hibridación
 
