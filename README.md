@@ -14,7 +14,7 @@ Cultura Digital  |  **UOC**
 
 ## Evolución de medios - hibridación
 
-El cambio induce la evolución. Con la remediación, experimentamos el cambio del medio analógico a digital. Por consiguiente, resulta inevitable el siguiente paso, el momento en que los medios digitales comienzan a combinarse y fusionarse, dando paso a la **hibridación**.
+El cambio induce la evolución. A través de la remediación, experimentamos el cambio del medio analógico a digital. En consencuencia, es inevitable que los medios digitales comiencen a combinarse y fusionarse, lo que lleva a la **hibridación**.
 
 Recordemos la **remediación**,  *la conversión de los viejos medios en nuevos medios* mediante la digitalización ubicados en un metamedio, que tuvo un importante impacto en nuestra cultura. Y lo sigue teniendo, cada vez lo digital es más presente. 
 
